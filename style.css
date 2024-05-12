@@ -1,0 +1,102 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.section-one{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.section-two__title{
+    font-weight: bold;
+}
+
+.section-two__order{
+    background-color: black;
+    display:inline-block;
+    color:white;
+}
+
+.section-two{
+    border:solid black 3px;
+    display: inline-block;
+    text-align: center;
+}
+
+.section-two__image{
+    padding:20px;
+    text-align:center
+
+}
+
+.section-two__order{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5px;
+    /* margin:10px; */
+}
+
+.section-two__title{
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.section-two__desc{
+    width:160px;
+    text-align:center;
+    font-size: 13px;
+    /* word-wrap: break-word; */
+    padding-left: 40px;
+
+}
+
+.container-two{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.section-three{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 60px;
+    margin-top:30px;
+    font-size: 15px;
+}
+
+.section-three__center{
+    text-align: center; 
+    
+
+}
+
+.section-three__title{
+    font-size: 20px;
+
+}
+
+.section-three__container{
+    text-align: center;
+}
+
+.section-three__send{
+    background-color: yellow;
+    color:black;
+    width:500px;
+    display: block;
+    margin: auto;
+}
+
+.section-three__table {
+    display: inline-block; /* Allows the table to be centered */
+    text-align: left;
+}
